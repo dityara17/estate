@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a71a31-f404-4ab9-ae09-cb8e900c1709" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/backblue.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fade.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/themes/flex-home/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/themes/flex-home/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +37,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586094504002</updated>
-      <workItem from="1586094505251" duration="2676000" />
+      <workItem from="1586094505251" duration="2950000" />
     </task>
+    <task id="LOCAL-00001" summary="dindin pa dindin">
+      <created>1586097587943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586097587943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="dindin pa dindin" />
+    <option name="LAST_COMMIT_MESSAGE" value="dindin pa dindin" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="257" y="32" key="CommitChangelistDialog2" timestamp="1586097587414">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="257" y="32" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586097587414" />
+    <state x="363" y="169" key="Vcs.Push.Dialog.v2" timestamp="1586097608694">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="363" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586097608694" />
   </component>
 </project>
