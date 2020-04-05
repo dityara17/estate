@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="15a71a31-f404-4ab9-ae09-cb8e900c1709" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/properties.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/properties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/properties/private-estate-magnificent-views.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/properties1e1d.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/properties1e1d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/10-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/10-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/11-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/11-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/7-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/7-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/8-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/storage/properties/8-2.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -37,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586094504002</updated>
-      <workItem from="1586094505251" duration="2950000" />
+      <workItem from="1586094505251" duration="4856000" />
     </task>
     <task id="LOCAL-00001" summary="dindin pa dindin">
       <created>1586097587943</created>
@@ -46,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586097587943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update din din pa din din">
+      <created>1586097822460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586097822460</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,16 +75,21 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="dindin pa dindin" />
-    <option name="LAST_COMMIT_MESSAGE" value="dindin pa dindin" />
+    <MESSAGE value="update din din pa din din" />
+    <option name="LAST_COMMIT_MESSAGE" value="update din din pa din din" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="257" y="32" key="CommitChangelistDialog2" timestamp="1586097587414">
+    <state x="227" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586104916247">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="257" y="32" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586097587414" />
-    <state x="363" y="169" key="Vcs.Push.Dialog.v2" timestamp="1586097608694">
+    <state x="227" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1586104916247" />
+    <state x="257" y="32" key="CommitChangelistDialog2" timestamp="1586097820411">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="363" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586097608694" />
+    <state x="257" y="32" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586097820411" />
+    <state x="363" y="169" key="Vcs.Push.Dialog.v2" timestamp="1586097835714">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="363" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586097835714" />
   </component>
 </project>
