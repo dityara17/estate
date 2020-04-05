@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15a71a31-f404-4ab9-ae09-cb8e900c1709" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/backblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex-home.botble.com/themes/flex-home/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flex-home.botble.com/themes/flex-home/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hts-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a7lRLdaVk1ugfFSfctRNF2WpXC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15a71a31-f404-4ab9-ae09-cb8e900c1709" name="Default Changelist" comment="" />
+      <created>1586094504002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586094504002</updated>
+      <workItem from="1586094505251" duration="2676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
